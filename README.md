@@ -1,14 +1,12 @@
-## 👋 Hi, I’m Eshab Sachan!!  <br/> <br/>
+## 👋 Hey there, I’m **Eshab Sachan**!
 
-🎓 **BCA student** at **Chandigarh University**, passionate about **technology** and **innovation**. <br/> 
+🎓 A passionate **BCA student** at **Chandigarh University**, driven by a love for **tech**, **innovation**, and building cool things that **actually** work.  
+💻 From intuitive **Expense Trackers** to powerful **Blockchain tools**, and even quirky **CSS Art**, I enjoy creating projects that blend **functionality** with **creativity**.
 
-💻 I specialize in creating projects that merge **functionality** with **creativity** — from 🧾 **Expense Trackers** to 🤖 **Blockchain** and **Drawings using CSS**.<br/>
+📱 Currently diving deeper into **App Development** and experimenting with **running AI models locally** — because I believe in **smart software** with **real privacy** 🔒 and **full control** ⚡.  
+🧠 Whether it's coding, designing, or pushing the limits of what's possible with **AI**, I’m always up for the next big challenge! 🚀
 
-📌 Currently exploring **App Developing** to build smarter, more adaptive software — and working on running AI models **locally** for better **privacy** 🔒 and **control** ⚡.<br/>  
-
-✨ Whether it’s **coding**, **designing**, or **pushing the limits of AI**, I’m always up for building something exciting! 🚀<br/>
-
-
+📬 Reach out: **eshabsa@gmail.com**
 
 
 ## 🌐 Socials:
