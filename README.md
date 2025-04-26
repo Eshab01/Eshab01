@@ -1,13 +1,15 @@
-👋 Hey there, I’m Eshab Sachan!
-🎓 A passionate BCA student at Chandigarh University, driven by a love for tech, innovation, and building cool things that actually work.
-💻 From intuitive Expense Trackers to powerful Blockchain tools, and even quirky CSS Art, I enjoy creating projects that blend functionality with creativity.
+## 👋 Hey there, I’m **Eshab Sachan**!
 
-📱 Currently diving deeper into App Development and experimenting with running AI models locally — because I believe in smart software with real privacy 🔒 and full control ⚡.
-🧠 Whether it’s coding, designing, or pushing the limits of what’s possible with AI, I’m always up for the next big challenge! 🚀
+🎓 A passionate **BCA student** at **Chandigarh University**, driven by a love for **tech**, **innovation**, and building cool things that **actually work**.  
+💻 From intuitive **Expense Trackers** to powerful **Blockchain tools**, and even quirky **CSS Art**, I enjoy creating projects that blend **functionality** with **creativity**.
 
-🌐 Check out my portfolio: My Projects
+📱 Currently diving deeper into **App Development** and experimenting with **running AI models locally** — because I believe in **smart software** with **real privacy** 🔒 and **full control** ⚡.  
+🧠 Whether it’s coding, designing, or pushing the limits of what’s possible with **AI**, I’m always up for the next big challenge! 🚀
 
-📬 Reach out: eshabsa@gmail.com
+🌐 Check out my portfolio: [**My Projects**](https://netflix-portfolio-iota.vercel.app/)
+
+📬 Reach out: **eshabsa@gmail.com**
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eshab_sachan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eshab-sachan) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/eshab-sachan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eshabsa@gmail.com) 
