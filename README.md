@@ -6,7 +6,7 @@
 📱 Currently diving deeper into **App Development** and experimenting with **running AI models locally** — because I believe in **smart software** with **real privacy** 🔒 and **full control** ⚡.  
 🧠 Whether it’s coding, designing, or pushing the limits of what’s possible with **AI**, I’m always up for the next big challenge! 🚀
 
-🌐 Check out my portfolio: [**My Projects**](https://netflix-portfolio-iota.vercel.app/)
+🌐 Check out my portfolio: [**My Portfolio**](https://netflix-portfolio-iota.vercel.app/)
 
 📬 Reach out: **eshabsa@gmail.com**
 
